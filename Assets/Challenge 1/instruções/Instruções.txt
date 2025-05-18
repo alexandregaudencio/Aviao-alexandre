@@ -1,0 +1,10 @@
+Instruções:
+
+Esse projeto é feito para ter bugs, seu objetivo é encontrar esses erros e corrigi-los se estiver com dificuldades de encontrar por si mesmo aqui seque uma lista dos problemas
+
+1. OK  O avião esta indo para trás : faça ele ir para frente 
+2. OK  O avião esta indo rápido demais : reduza sua velocidade para ela ser mais facil de controlar
+3. OK  O nariz do avião esta subindo / abaixando automaticamente : faça com que o jogador possa controlar essa ação
+4. OK  A camera nao seque devidamente o avião : faça ela sequi-lo 
+5. OK  A camera nao esta devidamente posicionada para vizualizar o aviao : faça com que o jogador tenha uma boa visão do que esta acontecendo
+6. OK  A helice do avião não esta girando : faça ela rodar
